@@ -1,0 +1,35 @@
+.header{
+	font-size: 30px;
+	margin-top:0px;
+	color: gray;
+	background-color: D8D8D8 ;
+	text-align : center;
+	}
+.mainheader{
+	font-size: 50px;
+	margin-top:0px;
+	color: gray;
+	background-color: D8D8D8 ;
+	text-align : center;
+    } 
+.content{
+	font-size: 20px;
+	color: gray;
+	margin-top:0px;
+	background-color: D8D8D8 ;
+	text-align : center;
+	}
+	  
+.styles{
+	font-family: arial;
+	font-size: 20px;
+	font-weight: 100;
+	font-style: italic;
+	text-align: center;
+	text-decoration:none;  
+	text-indent: 30px;
+	text-transform:capitalize;
+	color: fffff;
+	letter-spacing:10px;
+	line-height:40px;
+	}
