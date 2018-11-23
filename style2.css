@@ -11,7 +11,7 @@
 	color: gray;
 	background-color: D8D8D8 ;
 	text-align : center;
-    } 
+        } 
 .content{
 	font-size: 20px;
 	color: gray;
@@ -33,26 +33,26 @@
 	letter-spacing:10px;
 	line-height:40px;
 	}
-.{
+.       {
 	margin: 0;
 	padding: 0;
 	}
 	
-.ul{
+.ul     {
 		
 	
 	}
 	
-nav{
+nav    {
 		
 	height: 200 px;
 	width: 100%;
 	background-color: #eee;
 	
 	
-	}
+       }  
 	
-ul li {
+ul li  {
 		
 	list-style:none;
 	display: inline-block;
