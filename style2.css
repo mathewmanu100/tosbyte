@@ -33,3 +33,40 @@
 	letter-spacing:10px;
 	line-height:40px;
 	}
+.{
+	margin: 0;
+	padding: 0;
+	}
+	
+.ul{
+		
+	
+	}
+	
+nav{
+		
+	height: 200 px;
+	width: 100%;
+	background-color: #eee;
+	
+	
+	}
+	
+ul li {
+		
+	list-style:none;
+	display: inline-block;
+	line-height:100 px;
+	
+	
+    
+        }
+	
+ul li a{
+	
+	text-decoration : none;
+	font-size: 20px ;
+	color : gray;
+	padding: 0 20 px;
+	
+	}
