@@ -43,6 +43,13 @@ ul li a{
 	background-color: D8D8D8 ;
 	text-align : left;
 	}
+.image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .mainheader{
 	font-size: 50px;
 	margin-top:0px;
