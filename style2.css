@@ -41,15 +41,8 @@ ul li a{
 	margin-top:0px;
 	color: gray;
 	background-color: D8D8D8 ;
-	text-align : left;
+	text-align : center;
 	}
-.image{
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 .mainheader{
 	font-size: 50px;
 	margin-top:0px;
@@ -63,8 +56,14 @@ ul li a{
 	color: black;
 	margin-top:0px;
 	background-color: D8D8D8 ;
-	text-align : left;
+	text-align : center;
 	}
+.image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 	  
 .styles{
@@ -89,3 +88,7 @@ ul li a{
 	padding: 0;
 	}
 	
+	
+	
+	
+    
