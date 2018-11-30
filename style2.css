@@ -1,9 +1,11 @@
 .header{
+	margin: 0;
+	padding: 0;
 	font-size: 30px;
 	margin-top:0px;
-	color: gray;
+	color: black;
 	background-color: D8D8D8 ;
-	text-align : center;
+	text-align : left;
 	}
 .mainheader{
 	font-size: 50px;
@@ -11,13 +13,14 @@
 	color: gray;
 	background-color: D8D8D8 ;
 	text-align : center;
-        } 
+    } 
 .content{
+
 	font-size: 20px;
-	color: gray;
+	color: black;
 	margin-top:0px;
 	background-color: D8D8D8 ;
-	text-align : center;
+	text-align : left;
 	}
 	  
 .styles{
