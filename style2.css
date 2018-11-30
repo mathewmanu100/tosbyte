@@ -1,3 +1,39 @@
+ul{
+		
+	
+	}
+	
+nav{
+		
+	
+	
+	
+	}
+	
+
+		
+
+	
+ul li {
+		
+	list-style:none;
+	display: inline-block;
+	line-height:100 px;
+	
+	
+    
+    }
+	
+ul li a{
+	
+	text-decoration : none;
+	font-size: 20px ;
+	color : gray;
+	padding: 20 0 px;
+	margin: 10 px ;
+	
+	}
+	
 .header{
 	margin: 0;
 	padding: 0;
@@ -22,6 +58,7 @@
 	background-color: D8D8D8 ;
 	text-align : left;
 	}
+
 	  
 .styles{
 	font-family: arial;
@@ -34,42 +71,14 @@
 	text-transform:capitalize;
 	color: fffff;
 	letter-spacing:10px;
+	letter-spacing:10px;
 	line-height:40px;
-	}
-.       {
+	
+    }
+	
+	
+	.{
 	margin: 0;
 	padding: 0;
 	}
 	
-.ul     {
-		
-	
-	}
-	
-nav    {
-		
-	height: 200 px;
-	width: 100%;
-	background-color: #eee;
-	
-	
-       }  
-	
-ul li  {
-		
-	list-style:none;
-	display: inline-block;
-	line-height:100 px;
-	
-	
-    
-        }
-	
-ul li a{
-	
-	text-decoration : none;
-	font-size: 20px ;
-	color : gray;
-	padding: 0 20 px;
-	
-	}
